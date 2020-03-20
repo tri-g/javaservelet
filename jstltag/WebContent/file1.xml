@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user>
+<name>triveni</name>
+<gender>female</gender>
+<age>22</age>
+</user>
+<user>
+<name>tony stark</name>
+<gender>male</gender>
+<age>35</age>
+</user>
+<user>
+<name>steve rogers</name>
+<gender>male</gender>
+<age>103</age>
+</user>
+</users>
